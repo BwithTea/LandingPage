@@ -156,7 +156,7 @@ input, select, textarea {
 			}
 
 		}
-		p { 
+		.indent { 
 			text-indent: 4em; /* or 15px, or 5%, 2rem or 3vw */
 		  }
 		  
